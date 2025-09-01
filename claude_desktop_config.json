@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "simulink": {
+      "command": "/Users/junhaohou/Desktop/Aerospace/GitHub/LLM/Simulink_MCP/.venv/bin/python",
+      "args": ["/Users/junhaohou/Desktop/Aerospace/GitHub/LLM/Simulink_MCP/mcp_simulink_server.py"],
+      "env": {
+        "PYTHONPATH": "/Users/junhaohou/Desktop/Aerospace/GitHub/LLM/Simulink_MCP"
+      }
+    }
+  }
+}
